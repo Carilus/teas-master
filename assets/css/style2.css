@@ -1,0 +1,34 @@
+/* additional styles on what is the hardest part of teas test*/
+.question-container{
+    padding-top: 10px;
+}
+.list-points{
+    margin-left:30px;
+    padding-bottom: 10px
+}
+/* additional styles on how to pass english teas test*/
+.english-tips{
+    list-style-type: upper-roman;
+    margin-left: 30px
+}
+.tips-heading{
+    font-weight: 500;
+    letter-spacing: -2px;
+    color: #292930;
+}
+
+/*applies to all styles with external links*/
+
+.external-links{
+    color: deepskyblue;
+    font-weight: 500;
+}
+.external-links:hover{
+    font-weight: 500;
+    color: deepskyblue;
+    text-decoration-line: underline;
+}
+.internal-links{
+    color: deepskyblue;
+    font-weight: 500;
+}
